@@ -1,7 +1,9 @@
-Amazon Clone
+Amazon Clone - 
+
 This project is a static clone of the Amazon.com homepage, created using HTML and CSS. It aims to replicate the visual design and layout of the Amazon homepage, providing a practice ground for front-end development skills.
 
-Features
+Features - 
+
 Static Homepage: A clone of the Amazon.com homepage, replicating the visual design and layout.
 Navigation Bar: A visually accurate navigation bar with drop-down menus.
 Product Listings: Static display of product listings with images and titles.
